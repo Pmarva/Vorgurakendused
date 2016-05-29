@@ -5,7 +5,7 @@ Projekt MusicWeb
 ### Projektis kasutataud moodulid ja lisad
 1. [Bootstrap](http://getbootstrap.com/)
 2. [Jplayer](http://jplayer.org/)
-3. [Pythoni lise eyed3, et saada kätte ID3 ja muu info](http://eyed3.nicfit.net/)
+3. [Pythoni moodul eyed3, et saada kätte ID3 ja muu info](http://eyed3.nicfit.net/)
 4. [Jquery](https://jquery.com/)
 
 

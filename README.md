@@ -2,6 +2,13 @@
 Projekt MusicWeb
 
 
+### Projektis kasutataud moodulid ja lisad
+1. [Bootstrap](http://getbootstrap.com/)
+2. [Jplayer](http://jplayer.org/)
+3. [Pythoni lise eyed3, et saada kätte ID3 ja muu info](http://eyed3.nicfit.net/)
+4. [Jquery](https://jquery.com/)
+
+
 ### Tehtud
 1. Paneb mp3 info andmebasi ja läbi veebi liidese saab muusika failidele ligi.
 2. Python koodile antakse ette juur kaust, kus muusika failid asuvad, siis käiakse kõik alamkaustad läbi ja otsitakse ülesse mp3 failid.

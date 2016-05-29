@@ -1,0 +1,20 @@
+.musicEntry {
+    height: 80px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+
+.inlineCustom {
+    display:inline-block;
+}
+
+.glyphicon.glyphicon-music, .glyphicon.glyphicon-play, .glyphicon.glyphicon-pause{
+    font-size: 30px;
+}
+
+.hidden {
+    display: none;
+}
+
+body { padding-bottom: 70px; }
+

@@ -16,7 +16,7 @@ Projekt MusicWeb
 
 Nüüd on lihtne otsida enda muusika failide seast vastav fail ja seda otse veebist mängida.
 
-![alt tag](https://raw.githubusercontent.com/Pmarva/Vorgurakendused/master/github.png)
+![alt tag](https://raw.githubusercontent.com/Pmarva/Vorgurakendused/master/github_info.png)
 
 
 ### Tulevikku
